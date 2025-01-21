@@ -25,7 +25,7 @@ public class App {
         System.out.println("In quale anno?");
         int year = scan.nextInt();
 
-        System.out.println("La tua password impenetrabile crisè" + " " + userName + "-" + userSurname + "-" + bestColor + "-" + (day + month + year) );
+        System.out.println("La tua password impenetrabile è" + " " + userName + "-" + userSurname + "-" + bestColor + "-" + (day + month + year) );
 
     }
 }
